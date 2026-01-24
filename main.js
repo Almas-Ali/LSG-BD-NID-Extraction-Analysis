@@ -2,8 +2,6 @@
 // If you are using this code, please give proper credit to the author.
 // This code is provided "as is" without warranty of any kind.
 // Use at your own risk.
-
-// Copyright (c) 2025 Md. Almas Ali
 // Provided "as is" without warranty. Use at your own risk.
 
 const CryptoJS = require("crypto-js");
